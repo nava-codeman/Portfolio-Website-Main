@@ -1,4 +1,4 @@
-# Portfolio Nava - 3D Interactive Timeline 🕷️
+# Portfolio Nava - 3D Interactive Timeline 
 
 Welcome to **Portfolio Nava**, a next-generation, highly interactive 3D portfolio and personal timeline built by Navjyoti Nath. Engineered with cutting-edge web technologies, this platform transcends the traditional resume by immersing visitors in a fully realized 3D environment that tracks professional milestones, internships, projects, and academic achievements.
 
